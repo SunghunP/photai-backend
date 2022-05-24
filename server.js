@@ -1,0 +1,19 @@
+require("dotenv").config();
+
+// ---------------- //
+// Dependencies 
+// ---------------- //
+
+const express = require("express");
+const cors = require("cors");
+
+// Set up express application
+const app = express();
+
+// Use Port env variable
+const PORT = process.env.PORT || 5001;
+
+// App Listener 
+app.listen(PORT, () => {
+  console.log("We are listening on Port:", PORT)
+})
