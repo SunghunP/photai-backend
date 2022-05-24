@@ -17,3 +17,5 @@ const PORT = process.env.PORT || 5001;
 app.listen(PORT, () => {
   console.log("We are listening on Port:", PORT)
 })
+
+console.log("this is for testing purposes only")
