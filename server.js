@@ -1,4 +1,5 @@
 require("dotenv").config();
+require("./config/db");
 
 // ---------------- //
 // Dependencies 
@@ -6,12 +7,18 @@ require("dotenv").config();
 
 const express = require("express");
 const cors = require("cors");
+const mongoose = require("mongoose");
 
 // Set up express application
 const app = express();
 
 // Use Port env variable
-const PORT = process.env.PORT || 5001;
+const PORT = process.env.PORT;
+
+// ---------------- //
+// MiddleWare
+// ---------------- //
+app.use(express.json()); //parse json bodies
 
 // ---------------- //
 // Routes 
@@ -25,5 +32,3 @@ app.get("/", (req, res) => {
 app.listen(PORT, () => {
   console.log("We are listening on Port:", PORT);
 });
-
-console.log("this is for testing purposes only");
