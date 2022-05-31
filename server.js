@@ -23,10 +23,8 @@ app.use(express.json()); //parse json bodies
 // ---------------- //
 // Routes 
 // ---------------- //
-app.get("/", (req, res) => {
-  res.send("what's up ma")
-});
-
+const menuRouter = require("./routes/menu");
+app.use("/menu", menuRouter);
 
 // App Listener 
 app.listen(PORT, () => {
