@@ -13,9 +13,17 @@ const app = express();
 // Use Port env variable
 const PORT = process.env.PORT || 5001;
 
+// ---------------- //
+// Routes 
+// ---------------- //
+app.get("/", (req, res) => {
+  res.send("what's up ma")
+});
+
+
 // App Listener 
 app.listen(PORT, () => {
-  console.log("We are listening on Port:", PORT)
-})
+  console.log("We are listening on Port:", PORT);
+});
 
-console.log("this is for testing purposes only")
+console.log("this is for testing purposes only");
