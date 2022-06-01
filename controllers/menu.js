@@ -6,7 +6,7 @@ module.exports = {
   create,
 }
 
-// INDUCES - INdex Delete Update Create Edit Show
+// INDUCES - Index Delete Update Create Edit Show
 // Index Route
 async function index(req, res) {
   try {
