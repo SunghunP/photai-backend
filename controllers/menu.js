@@ -3,6 +3,7 @@ const Menu = require("../models/menu")
 module.exports = {
   index,
   delete: deleteMenuItem,
+  update,
   create,
   show
 }
@@ -26,6 +27,17 @@ async function deleteMenuItem(req, res) {
   }
 }
 
+// Update Route
+async function update(req, res) {
+  try {
+    res.json(
+      await Menu.findByIdAndUpdate(req.params.id, req.body, {new: true})
+    );
+  } catch (error) {
+    res.status(400).json(error);
+  }
+}
+
 // Create Route
 async function create(req, res) {
   try {
@@ -35,6 +47,7 @@ async function create(req, res) {
   }
 }
 
+// Show Route
 async function show(req, res) {
   try {
     res.json(await Menu.findById(req.params.id));
