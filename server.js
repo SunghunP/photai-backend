@@ -17,6 +17,7 @@ const PORT = process.env.PORT;
 // ---------------- //
 // MiddleWare
 // ---------------- //
+app.use(cors()); // prevent cors errors, open access to all origins
 app.use(express.json()); //parse json bodies
 
 // ---------------- //
