@@ -4,6 +4,7 @@ const menuCtrl = require("../controllers/menu");
 
 // INDUCES ROUTES //
 router.get("/", menuCtrl.index); // index route
+router.get("/:id", menuCtrl.show); // show route
 router.post("/", menuCtrl.create); // create route
 router.delete("/:id", menuCtrl.delete); // delete route
 

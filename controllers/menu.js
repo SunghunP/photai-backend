@@ -4,6 +4,7 @@ module.exports = {
   index,
   delete: deleteMenuItem,
   create,
+  show
 }
 
 // INDUCES - Index Delete Update Create Edit Show
@@ -34,3 +35,10 @@ async function create(req, res) {
   }
 }
 
+async function show(req, res) {
+  try {
+    res.json(await Menu.findById(req.params.id));
+  } catch (error) {
+    res.status(400).json(error);
+  }
+}
