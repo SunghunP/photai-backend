@@ -4,11 +4,12 @@ const { Schema, model } = mongoose;
 
 const menuSchema = new Schema({
     // menu model
+    menuItemTag: { type: String, maxLength: [4, "Character length must be 4 or lower."]},
     name:  { type: String, required: true, unique: true },
     desc:  { type: String, maxLength: 500 },
     img:   { type: String },
     price: { type: Number, required: true, min: [0, "The price of food must be greater than zero!"] },
-    tag:   { type: String, maxLength: 15 }
+    foodType:   { type: String, maxLength: 15 }
 });
 
 // store model in mongoose
