@@ -8,7 +8,7 @@ const menuSchema = new Schema({
     name:  { type: String, required: true, unique: true },
     desc:  { type: String, maxLength: 500 },
     img:   { type: String },
-    price: { type: Number, required: true, min: [0, "The price of food must be greater than zero!"] },
+    price: { type: Number, min: [0, "The price of food must be greater than zero!"] },
     foodType:   { type: String, maxLength: 15 }
 });
 
