@@ -5,7 +5,7 @@ const { Schema, model } = mongoose;
 const menuSchema = new Schema({
     // menu model
     menuItemTag: { type: String, maxLength: [4, "Character length must be 4 or lower."]},
-    name:        { type: String },
+    name:        { type: String, required: true },
     vietName:    { type: String },
     desc:        { type: String, maxLength: 500 },
     // img:         { type: String },
