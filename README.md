@@ -74,11 +74,11 @@ const menuSchema = new Schema({
     // menu model
     menuItemTag: { type: String, maxLength: [4, "Character length must be 4 or lower."]},
     name:        { type: String },
-    englishName: { type: String },
+    vietName:    { type: String },
     desc:        { type: String, maxLength: 500 },
     // img:         { type: String },
-    price:       { type: Number, min: [0, "The price of food must be greater than zero!"] },
-    foodType:    { type: String, maxLength: 25 }
+    price:       { type: Number, required: true, min: [0, "The price of food must be greater than zero!"] },
+    foodType:    { type: String }
 });
 ```
 ## Updates

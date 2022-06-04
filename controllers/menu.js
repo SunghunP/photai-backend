@@ -25,9 +25,10 @@ async function seed(req,res) {
   try {
     // first delete all data in database
     await Menu.deleteMany({});
-    // then create new entries using seed data
-    await Menu.create(menuSeed)
-    res.redirect('/menu')
+    res.json(
+      // then create new entries using seed data
+      await Menu.create(menuSeed)
+    );
   } catch (error) {
     res.status(400).json(error);
   };
