@@ -78,7 +78,7 @@ const menuSchema = new Schema({
     desc:        { type: String, maxLength: 500 },
     img:         { type: String },
     price:       { type: Number, min: [0, "The price of food must be greater than zero!"] },
-    foodType:    { type: String, maxLength: 15 }
+    foodType:    { type: String, maxLength: 25 }
 });
 ```
 ## Updates
