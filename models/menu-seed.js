@@ -53,7 +53,7 @@ module.exports = [
     "englishName": "Phở Tai Special Combo Tray",
     "desc": "Fried Rolls, Prawn, Vietnamese Ham & Char-broiled Pork, Chicken, Rice Noodles & Vegetables",
     "price": 23.99,
-    "foodType": "pho tai special combo tray"
+    "foodType": "special combo tray"
   },
   {
     "menuItemTag": "25",
