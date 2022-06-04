@@ -60,7 +60,7 @@ module.exports = [
    "desc": "Fried Rolls, Prawn, Vietnamese Ham & Char-broiled Pork, Chicken, Rice Noodles & Vegetables",
    "img": "",
    "price": 23.99,
-   "foodType": "pho tai special combo tray"
+   "foodType": "combo tray"
  },
  {
    "menuItemTag": "25",
