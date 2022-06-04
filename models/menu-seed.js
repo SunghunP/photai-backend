@@ -1,4 +1,4 @@
-export default [
+module.exports = [
  {
    "menuItemTag": "28",
    "name": "Chả Giò",
