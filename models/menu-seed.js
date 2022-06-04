@@ -56,11 +56,11 @@ module.exports = [
   {
     "menuItemTag": "W3-S",
     "name": "Phở Tai Special Combo Tray",
-    "englishName": "Special Combo Tray",
+    "englishName": "Phở Tai Special Combo Tray",
     "desc": "Fried Rolls, Prawn, Vietnamese Ham & Char-broiled Pork, Chicken, Rice Noodles & Vegetables",
     "img": "",
     "price": 23.99,
-    "foodType": "pho tai special combo tray"
+    "foodType": "special combo tray"
   },
   {
     "menuItemTag": "25",
