@@ -185,7 +185,7 @@ module.exports = [
   },
   {
     "menuItemTag": "7",
-    "name": "",
+    "name": "Steak & Tripe Pho",
     "vietName": "*Phở Tái, Sách",
     "desc": "Steak & Tripe",
     "price": 11.99,
