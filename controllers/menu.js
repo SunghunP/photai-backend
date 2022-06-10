@@ -4,6 +4,7 @@ const menuSeed = require("../models/menu-seed");
 module.exports = {
   index,
   seed,
+  findByFoodType,
   delete: deleteMenuItem,
   update,
   create,
@@ -29,6 +30,15 @@ async function seed(req,res) {
       // then create new entries using seed data
       await Menu.create(menuSeed)
     );
+  } catch (error) {
+    res.status(400).json(error);
+  };
+};
+
+// function that will find by the food type sorted ascending
+async function findByFoodType(req, res) {
+  try {
+    res.json(await Menu.find({ foodType: req.params.type }).sort({itemNumber: 1}));
   } catch (error) {
     res.status(400).json(error);
   };
