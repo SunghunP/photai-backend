@@ -4,6 +4,7 @@ const { Schema, model } = mongoose;
 
 const menuSchema = new Schema({
     // menu model
+    itemNumber: { type: Number, required: true, unique: true, },
     menuItemTag: { type: String, maxLength: [4, "Character length must be 4 or lower."]},
     name:        { type: String, required: true },
     vietName:    { type: String },

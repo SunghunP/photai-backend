@@ -1,5 +1,6 @@
 module.exports = [
   {
+    "itemNumber": 1,
     "menuItemTag": "28",
     "name": "Fried Roll",
     "vietName": "Chả Giò",
@@ -8,6 +9,7 @@ module.exports = [
     "foodType": "appetizer"
   },
   {
+    "itemNumber": 2,
     "menuItemTag": "30",
     "name": "Spring Roll",
     "vietName": "Gỏi Cuốn",
@@ -16,6 +18,7 @@ module.exports = [
     "foodType": "appetizer"
   },
   {
+    "itemNumber": 3,
     "menuItemTag": "A7",
     "name": "BBQ Pork Spring Roll",
     "vietName": null,
@@ -24,6 +27,7 @@ module.exports = [
     "foodType": "appetizer"
   },
   {
+    "itemNumber": 4,
     "menuItemTag": "A2",
     "name": "Pot Stickers",
     "vietName": null,
@@ -32,6 +36,7 @@ module.exports = [
     "foodType": "appetizer"
   },
   {
+    "itemNumber": 5,
     "menuItemTag": "A3",
     "name": "Pot Stickers & Egg Rolls",
     "vietName": null,
@@ -40,6 +45,7 @@ module.exports = [
     "foodType": "appetizer"
   },
   {
+    "itemNumber": 6,
     "menuItemTag": "CR",
     "name": "Crab Bow",
     "vietName": "Cua Rangoon",
@@ -48,6 +54,7 @@ module.exports = [
     "foodType": "appetizer"
   },
   {
+    "itemNumber": 7,
     "menuItemTag": "W3-S",
     "name": "Phở Tai Special Combo Tray",
     "vietName": "Phở Tai Special Combo Tray",
@@ -56,6 +63,7 @@ module.exports = [
     "foodType": "special combo tray"
   },
   {
+    "itemNumber": 8,
     "menuItemTag": "25",
     "name": "Pork Noodle Salad Bowl",
     "vietName": "Bún Tôm Thit Nuởng",
@@ -64,6 +72,7 @@ module.exports = [
     "foodType": "noodle salad bowl"
   },
   {
+    "itemNumber": 9,
     "menuItemTag": "26",
     "name": "Tofu Noodle Salad Bowl",
     "vietName": "Bún Tàu Hủ",
@@ -72,6 +81,7 @@ module.exports = [
     "foodType": "noodle salad bowl"
   },
   {
+    "itemNumber": 10,
     "menuItemTag": "27",
     "name": "Carrot Beef Stew",
     "vietName": "Bánh Mì Phở Hoặc Cơm Bò Kho",
@@ -80,6 +90,7 @@ module.exports = [
     "foodType": "noodle salad bowl"
   },
   {
+    "itemNumber": 11,
     "menuItemTag": "31",
     "name": "Chicken Noodle Salad Bowl",
     "vietName": "Bún Gà Nướng",
@@ -88,6 +99,7 @@ module.exports = [
     "foodType": "noodle salad bowl"
   },
   {
+    "itemNumber": 12,
     "menuItemTag": "32",
     "name": "Pork & Egg Roll Salad Bowl",
     "vietName": "Bún Thịt Nướng Chả Giò",
@@ -96,6 +108,7 @@ module.exports = [
     "foodType": "noodle salad bowl"
   },
   {
+    "itemNumber": 13,
     "menuItemTag": "47",
     "name": "Char-broiled Chicken & Tofu Rice Plate",
     "vietName": "Cơm Gà Nướng Tàu Hủ",
@@ -104,6 +117,7 @@ module.exports = [
     "foodType": "rice plate"
   },
   {
+    "itemNumber": 14,
     "menuItemTag": "22",
     "name": "Char-broiled Pork Chop, Egg Fry, & Rice Plate",
     "vietName": "Cơm, Tring, Suởn Nướng",
@@ -112,6 +126,7 @@ module.exports = [
     "foodType": "rice plate"
   },
   {
+    "itemNumber": 15,
     "menuItemTag": "23",
     "name": "Char-broiled Chicken & Fried Roll Rice Plate",
     "vietName": "Cơm Gà Nướng Chà Giò",
@@ -120,6 +135,7 @@ module.exports = [
     "foodType": "rice plate"
   },
   {
+    "itemNumber": 16,
     "menuItemTag": "24",
     "name": "Char-broiled Pork Chop Rice Plate",
     "vietName": "Cơm Sướng Xả",
@@ -128,6 +144,7 @@ module.exports = [
     "foodType": "rice plate"
   },
   {
+    "itemNumber": 17,
     "menuItemTag": "0",
     "name": "Vegetables Only Pho",
     "vietName": "Phở Không Thịt",
@@ -136,6 +153,7 @@ module.exports = [
     "foodType": "pho"
   },
   {
+    "itemNumber": 18,
     "menuItemTag": "1",
     "name": "Steak Pho",
     "vietName": "*Phở Tái",
@@ -144,6 +162,7 @@ module.exports = [
     "foodType": "pho"
   },
   {
+    "itemNumber": 19,
     "menuItemTag": "2",
     "name": "Steak & Brisket Pho",
     "vietName": "*Phở Tái, Chín Nạc",
@@ -152,6 +171,7 @@ module.exports = [
     "foodType": "pho"
   },
   {
+    "itemNumber": 20,
     "menuItemTag": "3",
     "name": "Steak & Meat ball Pho",
     "vietName": "*Phở Tái, Bò Viên",
@@ -160,6 +180,7 @@ module.exports = [
     "foodType": "pho"
   },
   {
+    "itemNumber": 21,
     "menuItemTag": "4",
     "name": "Meat Ball Pho",
     "vietName": "Phở Bò Viên",
@@ -168,6 +189,7 @@ module.exports = [
     "foodType": "pho"
   },
   {
+    "itemNumber": 22,
     "menuItemTag": "5",
     "name": "Steak & Flank Pho",
     "vietName": "*Phở Tái, Nạm",
@@ -176,6 +198,7 @@ module.exports = [
     "foodType": "pho"
   },
   {
+    "itemNumber": 23,
     "menuItemTag": "6",
     "name": "Veggie & Tofu Pho",
     "vietName": "Phở Tai, Tàu Hủ",
@@ -184,6 +207,7 @@ module.exports = [
     "foodType": "pho"
   },
   {
+    "itemNumber": 24,
     "menuItemTag": "7",
     "name": "Steak & Tripe Pho",
     "vietName": "*Phở Tái, Sách",
@@ -192,6 +216,7 @@ module.exports = [
     "foodType": "pho"
   },
   {
+    "itemNumber": 25,
     "menuItemTag": "8",
     "name": "Tendon Pho",
     "vietName": "Phở Gân",
@@ -200,6 +225,7 @@ module.exports = [
     "foodType": "pho"
   },
   {
+    "itemNumber": 26,
     "menuItemTag": "10",
     "name": "Tendon & Flank Pho",
     "vietName": "Phở Nạm, Gân",
@@ -208,6 +234,7 @@ module.exports = [
     "foodType": "pho"
   },
   {
+    "itemNumber": 27,
     "menuItemTag": "15",
     "name": "Steak, Flank, Tendon, & Tripe Pho",
     "vietName": "*Phở Tái Nạm, Gầu, Gân, Sách",
@@ -216,6 +243,7 @@ module.exports = [
     "foodType": "pho"
   },
   {
+    "itemNumber": 28,
     "menuItemTag": "17",
     "name": "Steak, Brisket, Flank, Tendon, & Tripe Pho",
     "vietName": "*Phở Tái, Nạm, Gân, Sách",
@@ -224,6 +252,7 @@ module.exports = [
     "foodType": "pho"
   },
   {
+    "itemNumber": 29,
     "menuItemTag": "18",
     "name": "Chicken Pho",
     "vietName": "Phở Gâ",
@@ -232,6 +261,7 @@ module.exports = [
     "foodType": "pho"
   },
   {
+    "itemNumber": 30,
     "menuItemTag": "19",
     "name": "*Kids Meal Pho",
     "vietName": "*Phở Chín, Bò Viên",
@@ -240,6 +270,7 @@ module.exports = [
     "foodType": "pho"
   },
   {
+    "itemNumber": 31,
     "menuItemTag": "20",
     "name": "Brisket Pho",
     "vietName": "Phở Chín Nạc",
@@ -248,6 +279,7 @@ module.exports = [
     "foodType": "pho"
   },
   {
+    "itemNumber": 32,
     "menuItemTag": "21",
     "name": "Brisket & Meatball Pho",
     "vietName": "Phở Chín, Bò Viên",
@@ -256,6 +288,7 @@ module.exports = [
     "foodType": "pho"
   },
   {
+    "itemNumber": 33,
     "menuItemTag": "40",
     "name": "Brisket & Flank Pho",
     "vietName": "Phở Chín Nạm",
@@ -264,6 +297,7 @@ module.exports = [
     "foodType": "pho"
   },
   {
+    "itemNumber": 34,
     "menuItemTag": "41",
     "name": "Steak & Tendon Pho",
     "vietName": "*Phở Tài Gân",
@@ -272,6 +306,7 @@ module.exports = [
     "foodType": "pho"
   },
   {
+    "itemNumber": 35,
     "menuItemTag": "33",
     "name": "Seafood Pho",
     "vietName": "Phở Đỗ Biền",
@@ -280,6 +315,7 @@ module.exports = [
     "foodType": "pho"
   },
   {
+    "itemNumber": 36,
     "menuItemTag": "44",
     "name": "Brisket, Fatty Flank, & Tripe Pho",
     "vietName": "Phở Chín, Nạm, Gầu, Sách",
@@ -288,6 +324,7 @@ module.exports = [
     "foodType": "pho"
   },
   {
+    "itemNumber": 37,
     "menuItemTag": "45",
     "name": "Brisket, Fatty Flank, & Tendon Pho",
     "vietName": "Phở Chín, Nạm, Gầu, Gân",
@@ -296,6 +333,7 @@ module.exports = [
     "foodType": "pho"
   },
   {
+    "itemNumber": 38,
     "menuItemTag": "46",
     "name": "Thang noodle Pho",
     "vietName": "Bún thang",
@@ -304,6 +342,7 @@ module.exports = [
     "foodType": "pho"
   },
   {
+    "itemNumber": 39,
     "menuItemTag": "50",
     "name": "Mushroom Pho",
     "vietName": "Phở Nấm",
@@ -312,6 +351,7 @@ module.exports = [
     "foodType": "pho"
   },
   {
+    "itemNumber": 40,
     "menuItemTag": "G-1",
     "name": "Grilled Chicken",
     "vietName": "Cơm Thịt Gâ Nướng",
@@ -320,6 +360,7 @@ module.exports = [
     "foodType": "grilled and wok"
   },
   {
+    "itemNumber": 41,
     "menuItemTag": "G-2",
     "name": "Grilled Beef",
     "vietName": "Cơm Thịt Bò Nướng",
@@ -328,6 +369,7 @@ module.exports = [
     "foodType": "grilled and wok"
   },
   {
+    "itemNumber": 42,
     "menuItemTag": "G-3",
     "name": "Grilled Pork",
     "vietName": "Cơm Thịt Heo Nướng",
@@ -336,6 +378,7 @@ module.exports = [
     "foodType": "grilled and wok"
   },
   {
+    "itemNumber": 43,
     "menuItemTag": "G-4",
     "name": "Grilled Chicken Breast",
     "vietName": "Cơm Thịt Gâ Ức Nướng",
@@ -344,6 +387,7 @@ module.exports = [
     "foodType": "grilled and wok"
   },
   {
+    "itemNumber": 44,
     "menuItemTag": "G-5",
     "name": "Grilled Chicken & Beef",
     "vietName": "Cơm Thịt Gâ Bò Nướng",
@@ -352,6 +396,7 @@ module.exports = [
     "foodType": "grilled and wok"
   },
   {
+    "itemNumber": 45,
     "menuItemTag": "G-6",
     "name": "Grilled Chicken & Pork",
     "vietName": "Cơm Thịt Gâ Heo Nướng",
@@ -360,6 +405,7 @@ module.exports = [
     "foodType": "grilled and wok"
   },
   {
+    "itemNumber": 46,
     "menuItemTag": "G-7",
     "name": "Grilled Chicken & Pot Stickers",
     "vietName": "Cơm Thịt Gâ Nướng Pot Sticker",
@@ -368,6 +414,7 @@ module.exports = [
     "foodType": "grilled and wok"
   },
   {
+    "itemNumber": 47,
     "menuItemTag": "G-8",
     "name": "Grilled Chicken & Egg Roll",
     "vietName": "Cơm Thịt Gâ Nướng Chả Giò",
@@ -376,6 +423,7 @@ module.exports = [
     "foodType": "grilled and wok"
   },
   {
+    "itemNumber": 48,
     "menuItemTag": "G-9",
     "name": "Grilled Tofu",
     "vietName": "Cơm Tàu Hủ Nướng",
@@ -384,6 +432,7 @@ module.exports = [
     "foodType": "grilled and wok"
   },
   {
+    "itemNumber": 49,
     "menuItemTag": "G-10",
     "name": "Pot Stickers Plate",
     "vietName": "",
@@ -392,6 +441,7 @@ module.exports = [
     "foodType": "grilled and wok"
   },
   {
+    "itemNumber": 50,
     "menuItemTag": "G-11",
     "name": "Vietnamese Stir Fried Vegetables",
     "vietName": "",
@@ -400,6 +450,7 @@ module.exports = [
     "foodType": "grilled and wok"
   },
   {
+    "itemNumber": 51,
     "menuItemTag": "G-K",
     "name": "Kid's Meal Grilled Chicken",
     "vietName": "Cơm Trẻ Em",
@@ -408,6 +459,7 @@ module.exports = [
     "foodType": "grilled and wok"
   },
   {
+    "itemNumber": 52,
     "menuItemTag": "F-1",
     "name": "Chicken Fried Rice",
     "vietName": "Cơm Chiên Thịt Gâ",
@@ -416,6 +468,7 @@ module.exports = [
     "foodType": "fried rice"
   },
   {
+    "itemNumber": 53,
     "menuItemTag": "F-2",
     "name": "Pork Fried Rice",
     "vietName": "Cơm Chiên Thịt Heo",
@@ -424,6 +477,7 @@ module.exports = [
     "foodType": "fried rice"
   },
   {
+    "itemNumber": 54,
     "menuItemTag": "F-3",
     "name": "Shrimp Fried Rice",
     "vietName": "Cơm Chiên Tôm",
@@ -432,6 +486,7 @@ module.exports = [
     "foodType": "fried rice"
   },
   {
+    "itemNumber": 55,
     "menuItemTag": "F-4",
     "name": "Vegetable Fried Rice with Tofu",
     "vietName": "Cơm Chiên Rau",
@@ -440,6 +495,7 @@ module.exports = [
     "foodType": "fried rice"
   },
   {
+    "itemNumber": 56,
     "menuItemTag": "F-5",
     "name": "Combination Fried Rice",
     "vietName": "Cơm Chiên Đăc Biêt",
@@ -448,6 +504,7 @@ module.exports = [
     "foodType": "fried rice"
   },
   {
+    "itemNumber": 57,
     "menuItemTag": "B1",
     "name": "B.B.Q. Chicken Sandwich",
     "vietName": "Bánh Mì Thịt Gâ",
@@ -456,6 +513,7 @@ module.exports = [
     "foodType": "banh mi"
   },
   {
+    "itemNumber": 58,
     "menuItemTag": "B2",
     "name": "B.B.Q. Pork Sandwich",
     "vietName": "Bánh Mì Thịt Heo",
@@ -464,6 +522,7 @@ module.exports = [
     "foodType": "banh mi"
   },
   {
+    "itemNumber": 59,
     "menuItemTag": "B3",
     "name": "B.B.Q. Ham & Egg Sandwich",
     "vietName": "Bánh Mì Chả Trứng",
@@ -472,6 +531,7 @@ module.exports = [
     "foodType": "banh mi"
   },
   {
+    "itemNumber": 60,
     "menuItemTag": "B4",
     "name": "B.B.Q. Combination Sandwich",
     "vietName": "Bánh Mì Đăc Biêt",
@@ -480,6 +540,7 @@ module.exports = [
     "foodType": "banh mi"
   },
   {
+    "itemNumber": 61,
     "menuItemTag": "B5",
     "name": "Tofu Bread Sandwich",
     "vietName": "Bánh Mì Tàu Hủ",
@@ -488,6 +549,7 @@ module.exports = [
     "foodType": "banh mi"
   },
   {
+    "itemNumber": 62,
     "menuItemTag": "72",
     "name": "Vietnamese Iced Coffee",
     "vietName": "Cà Phê Đá",
@@ -496,6 +558,7 @@ module.exports = [
     "foodType": "coffee"
   },
   {
+    "itemNumber": 63,
     "menuItemTag": "73",
     "name": "Vietnamese Milk Coffee",
     "vietName": "Cà Phê Sữa",
@@ -504,6 +567,7 @@ module.exports = [
     "foodType": "coffee"
   },
   {
+    "itemNumber": 64,
     "menuItemTag": "74",
     "name": "Vietnamese Iced Milk Coffee",
     "vietName": "Cà Phê Sữa Đá",
@@ -512,6 +576,7 @@ module.exports = [
     "foodType": "coffee"
   },
   {
+    "itemNumber": 65,
     "menuItemTag": "87",
     "name": "Blended Avocado Juice",
     "vietName": "Sinh Tố Bơ",
@@ -520,6 +585,7 @@ module.exports = [
     "foodType": "iced drinks"
   },
   {
+    "itemNumber": 66,
     "menuItemTag": "75",
     "name": "Thai Tea",
     "vietName": "Trà Thái",
@@ -528,6 +594,7 @@ module.exports = [
     "foodType": "iced drinks"
   },
   {
+    "itemNumber": 67,
     "menuItemTag": "BT",
     "name": "Bubble Juice",
     "vietName": "Trà Sữa Trân Châu",
@@ -536,6 +603,7 @@ module.exports = [
     "foodType": "bubble juice"
   },
   {
+    "itemNumber": 68,
     "menuItemTag": "S1",
     "name": "Meatball Side Order",
     "vietName": null,
@@ -544,6 +612,7 @@ module.exports = [
     "foodType": "side orders"
   },
   {
+    "itemNumber": 69,
     "menuItemTag": "S2",
     "name": "Extra Meatball",
     "vietName": null,
@@ -552,6 +621,7 @@ module.exports = [
     "foodType": "side orders"
   },
   {
+    "itemNumber": 70,
     "menuItemTag": "S3",
     "name": "Extra Tendon",
     "vietName": null,
@@ -560,6 +630,7 @@ module.exports = [
     "foodType": "side orders"
   },
   {
+    "itemNumber": 71,
     "menuItemTag": "S4",
     "name": "Extra Tripe",
     "vietName": null,
@@ -568,6 +639,7 @@ module.exports = [
     "foodType": "side orders"
   },
   {
+    "itemNumber": 72,
     "menuItemTag": "S5",
     "name": "Extra Brisket",
     "vietName": null,
@@ -576,6 +648,7 @@ module.exports = [
     "foodType": "side orders"
   },
   {
+    "itemNumber": 73,
     "menuItemTag": "S6",
     "name": "Extra Flank",
     "vietName": null,
@@ -584,6 +657,7 @@ module.exports = [
     "foodType": "side orders"
   },
   {
+    "itemNumber": 74,
     "menuItemTag": "S7",
     "name": "Extra Steak",
     "vietName": null,
@@ -592,6 +666,7 @@ module.exports = [
     "foodType": "side orders"
   },
   {
+    "itemNumber": 75,
     "menuItemTag": "S8",
     "name": "Extra Soup (Togo)",
     "vietName": null,
@@ -600,6 +675,7 @@ module.exports = [
     "foodType": "side orders"
   },
   {
+    "itemNumber": 76,
     "menuItemTag": "S9",
     "name": "Extra Egg",
     "vietName": null,
@@ -608,6 +684,7 @@ module.exports = [
     "foodType": "side orders"
   },
   {
+    "itemNumber": 77,
     "menuItemTag": "S10",
     "name": "Extra Shrimp (4pc)",
     "vietName": null,
@@ -616,6 +693,7 @@ module.exports = [
     "foodType": "side orders"
   },
   {
+    "itemNumber": 78,
     "menuItemTag": "S11",
     "name": "Extra Noodle w/ Soup",
     "vietName": null,
@@ -624,6 +702,7 @@ module.exports = [
     "foodType": "side orders"
   },
   {
+    "itemNumber": 79,
     "menuItemTag": "S12",
     "name": "Extra Rice",
     "vietName": null,
@@ -632,6 +711,7 @@ module.exports = [
     "foodType": "side orders"
   },
   {
+    "itemNumber": 80,
     "menuItemTag": "S13",
     "name": "Extra Bread",
     "vietName": null,
@@ -640,6 +720,7 @@ module.exports = [
     "foodType": "side orders"
   },
   {
+    "itemNumber": 81,
     "menuItemTag": "S14",
     "name": "Extra Noodles",
     "vietName": null,
@@ -647,4 +728,4 @@ module.exports = [
     "price": 4.99,
     "foodType": "side orders"
   }
- ]
+]
