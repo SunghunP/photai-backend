@@ -14,7 +14,7 @@ module.exports = {
 // Index Route
 async function index(req, res) {
   try {
-    res.json(await Menu.find({}));
+    res.json(await Menu.find.sort({itemNumber: 1}));
   } catch (error) {
     res.status(400).json(error);
   };
