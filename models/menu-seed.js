@@ -5,7 +5,7 @@ module.exports = [
     "name": "Fried Roll",
     "vietName": "Chả Giò",
     "desc": "Minced Pork, Shrimp & Vegetables.",
-    "price": 2.79,
+    "price": 2.99,
     "foodType": "appetizer"
   },
   {
@@ -14,7 +14,7 @@ module.exports = [
     "name": "Spring Roll",
     "vietName": "Gỏi Cuốn",
     "desc": "Salads & Vermicelli w/Peanut Sauce.",
-    "price": 2.79,
+    "price": 2.99,
     "foodType": "appetizer"
   },
   {
@@ -32,7 +32,7 @@ module.exports = [
     "name": "Pot Stickers",
     "vietName": null,
     "desc": null,
-    "price": 7.99,
+    "price": 8.49,
     "foodType": "appetizer"
   },
   {
@@ -41,7 +41,7 @@ module.exports = [
     "name": "Pot Stickers & Egg Rolls",
     "vietName": null,
     "desc": "Pot-Stickers (6pcs.) & Egg rolls (2pcs.)",
-    "price": 9.99,
+    "price": 10.99,
     "foodType": "appetizer"
   },
   {
@@ -50,7 +50,7 @@ module.exports = [
     "name": "Crab Bow",
     "vietName": "Cua Rangoon",
     "desc": "6(pcs.)",
-    "price": 7.59,
+    "price": 7.99,
     "foodType": "appetizer"
   },
   {
@@ -59,7 +59,7 @@ module.exports = [
     "name": "Phở Tai Special Combo Tray",
     "vietName": "Phở Tai Special Combo Tray",
     "desc": "Fried Rolls, Prawn, Vietnamese Ham & Char-broiled Pork, Chicken, Rice Noodles & Vegetables",
-    "price": 23.99,
+    "price": 28.99,
     "foodType": "special combo tray"
   },
   {
@@ -68,7 +68,7 @@ module.exports = [
     "name": "Pork Noodle Salad Bowl",
     "vietName": "Bún Tôm Thit Nuởng",
     "desc": "Char-broiled Pork, Noodles, Salad, Prawn & Sauce with Assorted Veggie.",
-    "price": 12.99,
+    "price": 13.99,
     "foodType": "noodle salad bowl"
   },
   {
@@ -77,7 +77,7 @@ module.exports = [
     "name": "Tofu Noodle Salad Bowl",
     "vietName": "Bún Tàu Hủ",
     "desc": "Tofu, Salad, Noodle & Sauce, with Assorted Veggie.",
-    "price": 12.99,
+    "price": 13.99,
     "foodType": "noodle salad bowl"
   },
   {
@@ -86,7 +86,7 @@ module.exports = [
     "name": "Carrot Beef Stew",
     "vietName": "Bánh Mì Phở Hoặc Cơm Bò Kho",
     "desc": "Served with Bread or Noodles or Rice.",
-    "price": 13.49,
+    "price": 13.99,
     "foodType": "noodle salad bowl"
   },
   {
@@ -95,7 +95,7 @@ module.exports = [
     "name": "Chicken Noodle Salad Bowl",
     "vietName": "Bún Gà Nướng",
     "desc": "Char-broiled Chicken, Noodles, Salad, & Sauce with Assorted Veggie,",
-    "price": 12.99,
+    "price": 13.99,
     "foodType": "noodle salad bowl"
   },
   {
@@ -104,7 +104,7 @@ module.exports = [
     "name": "Pork & Egg Roll Salad Bowl",
     "vietName": "Bún Thịt Nướng Chả Giò",
     "desc": "",
-    "price": 12.99,
+    "price": 13.99,
     "foodType": "noodle salad bowl"
   },
   {
@@ -113,7 +113,7 @@ module.exports = [
     "name": "Char-broiled Chicken & Tofu Rice Plate",
     "vietName": "Cơm Gà Nướng Tàu Hủ",
     "desc": "Char-broiled Chicken & Fried Tofu w/Rice/Salad",
-    "price": 13.49,
+    "price": 14.49,
     "foodType": "rice plate"
   },
   {
@@ -122,7 +122,7 @@ module.exports = [
     "name": "Char-broiled Pork Chop, Egg Fry, & Rice Plate",
     "vietName": "Cơm, Tring, Suởn Nướng",
     "desc": "Char-broiled Pork Chop & Egg Fry w/Rice/Salad",
-    "price": 14.49,
+    "price": 14.99,
     "foodType": "rice plate"
   },
   {
@@ -131,7 +131,7 @@ module.exports = [
     "name": "Char-broiled Chicken & Fried Roll Rice Plate",
     "vietName": "Cơm Gà Nướng Chà Giò",
     "desc": "Char-broiled Chicken & Fried roll w/Rice/Salad",
-    "price": 13.49,
+    "price": 13.99,
     "foodType": "rice plate"
   },
   {
@@ -140,7 +140,7 @@ module.exports = [
     "name": "Char-broiled Pork Chop Rice Plate",
     "vietName": "Cơm Sướng Xả",
     "desc": "Char-broiled Pork Chop w/Rice/Salad",
-    "price": 14.49,
+    "price": 14.99,
     "foodType": "rice plate"
   },
   {
@@ -311,7 +311,7 @@ module.exports = [
     "name": "Seafood Pho",
     "vietName": "Phở Đỗ Biền",
     "desc": "Seafood (Only Large)",
-    "price": 13.99,
+    "price": 14.49,
     "foodType": "pho"
   },
   {
@@ -356,7 +356,7 @@ module.exports = [
     "name": "Grilled Chicken",
     "vietName": "Cơm Thịt Gâ Nướng",
     "desc": "Grilled Chicken with rice & side salad",
-    "price": 11.49,
+    "price": 12.49,
     "foodType": "grilled and wok"
   },
   {
@@ -365,7 +365,7 @@ module.exports = [
     "name": "Grilled Beef",
     "vietName": "Cơm Thịt Bò Nướng",
     "desc": "Grilled Beef with rice & side salad",
-    "price": 12.99,
+    "price": 13.99,
     "foodType": "grilled and wok"
   },
   {
@@ -374,7 +374,7 @@ module.exports = [
     "name": "Grilled Pork",
     "vietName": "Cơm Thịt Heo Nướng",
     "desc": "Grilled Pork with rice & side salad",
-    "price": 12.99,
+    "price": 13.99,
     "foodType": "grilled and wok"
   },
   {
@@ -392,7 +392,7 @@ module.exports = [
     "name": "Grilled Chicken & Beef",
     "vietName": "Cơm Thịt Gâ Bò Nướng",
     "desc": "Grilled Chicken & Beef with rice & side salad",
-    "price": 13.49,
+    "price": 13.99,
     "foodType": "grilled and wok"
   },
   {
@@ -401,7 +401,7 @@ module.exports = [
     "name": "Grilled Chicken & Pork",
     "vietName": "Cơm Thịt Gâ Heo Nướng",
     "desc": "Grilled Chicken & Pork with rice & side salad",
-    "price": 13.49,
+    "price": 13.99,
     "foodType": "grilled and wok"
   },
   {
@@ -410,7 +410,7 @@ module.exports = [
     "name": "Grilled Chicken & Pot Stickers",
     "vietName": "Cơm Thịt Gâ Nướng Pot Sticker",
     "desc": "Grilled Chicken & Pot Stickers with rice & side salad",
-    "price": 13.49,
+    "price": 13.99,
     "foodType": "grilled and wok"
   },
   {
@@ -419,7 +419,7 @@ module.exports = [
     "name": "Grilled Chicken & Egg Roll",
     "vietName": "Cơm Thịt Gâ Nướng Chả Giò",
     "desc": "Grilled Chicken & Egg Roll with rice & side salad",
-    "price": 13.49,
+    "price": 13.99,
     "foodType": "grilled and wok"
   },
   {
@@ -428,7 +428,7 @@ module.exports = [
     "name": "Grilled Tofu",
     "vietName": "Cơm Tàu Hủ Nướng",
     "desc": "Grilled Tofu with rice & side salad",
-    "price": 12.99,
+    "price": 13.99,
     "foodType": "grilled and wok"
   },
   {
@@ -437,7 +437,7 @@ module.exports = [
     "name": "Pot Stickers Plate",
     "vietName": "",
     "desc": "Pot Stickers with rice & side salad",
-    "price": 12.99,
+    "price": 13.99,
     "foodType": "grilled and wok"
   },
   {
@@ -446,7 +446,7 @@ module.exports = [
     "name": "Vietnamese Stir Fried Vegetables",
     "vietName": "",
     "desc": "Combination of vegetables stir fried with Chicken or Shrimp",
-    "price": 14.99,
+    "price": 16.99,
     "foodType": "grilled and wok"
   },
   {
@@ -464,7 +464,7 @@ module.exports = [
     "name": "Chicken Fried Rice",
     "vietName": "Cơm Chiên Thịt Gâ",
     "desc": "Fried Rice with Chicken & veggies",
-    "price": 12.99,
+    "price": 13.99,
     "foodType": "fried rice"
   },
   {
@@ -473,7 +473,7 @@ module.exports = [
     "name": "Pork Fried Rice",
     "vietName": "Cơm Chiên Thịt Heo",
     "desc": "Fried Rice with Pork & veggies",
-    "price": 12.99,
+    "price": 13.99,
     "foodType": "fried rice"
   },
   {
@@ -482,7 +482,7 @@ module.exports = [
     "name": "Shrimp Fried Rice",
     "vietName": "Cơm Chiên Tôm",
     "desc": "Fried Rice with Shrimp & veggies",
-    "price": 13.49,
+    "price": 13.99,
     "foodType": "fried rice"
   },
   {
@@ -491,7 +491,7 @@ module.exports = [
     "name": "Vegetable Fried Rice with Tofu",
     "vietName": "Cơm Chiên Rau",
     "desc": "Fried Rice with Fried Tofu & veggies",
-    "price": 12.99,
+    "price": 13.99,
     "foodType": "fried rice"
   },
   {
@@ -500,7 +500,7 @@ module.exports = [
     "name": "Combination Fried Rice",
     "vietName": "Cơm Chiên Đăc Biêt",
     "desc": "Fried Rice with Chicken & Shrimp",
-    "price": 13.99,
+    "price": 14.99,
     "foodType": "fried rice"
   },
   {
@@ -626,7 +626,7 @@ module.exports = [
     "name": "Extra Tendon",
     "vietName": null,
     "desc": null,
-    "price": 4.99,
+    "price": 5.99,
     "foodType": "side orders"
   },
   {
@@ -635,7 +635,7 @@ module.exports = [
     "name": "Extra Tripe",
     "vietName": null,
     "desc": null,
-    "price": 3.49,
+    "price": 3.99,
     "foodType": "side orders"
   },
   {
@@ -644,7 +644,7 @@ module.exports = [
     "name": "Extra Brisket",
     "vietName": null,
     "desc": null,
-    "price": 3.49,
+    "price": 3.99,
     "foodType": "side orders"
   },
   {
@@ -653,7 +653,7 @@ module.exports = [
     "name": "Extra Flank",
     "vietName": null,
     "desc": null,
-    "price": 3.49,
+    "price": 3.99,
     "foodType": "side orders"
   },
   {
@@ -662,7 +662,7 @@ module.exports = [
     "name": "Extra Steak",
     "vietName": null,
     "desc": null,
-    "price": 3.99,
+    "price": 4.49,
     "foodType": "side orders"
   },
   {
@@ -680,7 +680,7 @@ module.exports = [
     "name": "Extra Egg",
     "vietName": null,
     "desc": null,
-    "price": 2.15,
+    "price": 2.49,
     "foodType": "side orders"
   },
   {
@@ -698,7 +698,7 @@ module.exports = [
     "name": "Extra Noodle w/ Soup",
     "vietName": null,
     "desc": null,
-    "price": 7.99,
+    "price": 8.99,
     "foodType": "side orders"
   },
   {
@@ -707,7 +707,7 @@ module.exports = [
     "name": "Extra Rice",
     "vietName": null,
     "desc": null,
-    "price": 2.19,
+    "price": 2.49,
     "foodType": "side orders"
   },
   {
@@ -716,7 +716,7 @@ module.exports = [
     "name": "Extra Bread",
     "vietName": null,
     "desc": null,
-    "price": 1.99,
+    "price": 2.49,
     "foodType": "side orders"
   },
   {
@@ -728,4 +728,4 @@ module.exports = [
     "price": 4.99,
     "foodType": "side orders"
   }
-]
+ ]
