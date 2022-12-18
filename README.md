@@ -9,7 +9,7 @@ Test website for Pho restaurant with CRUD functionality and MERN stack
 4. [Updates](#updates)
 
 ## General Info
-### Website Link
+### Links
 work in progress...
 
 ### Screen shots of the website
