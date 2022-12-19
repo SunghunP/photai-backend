@@ -1,4 +1,4 @@
-# Pho Tai
+# Pho Tai Backend
 ## About this Project
 Test website for Pho restaurant with CRUD functionality and MERN stack
 
