@@ -10,7 +10,9 @@ Test website for Pho restaurant with CRUD functionality and MERN stack
 
 ## General Info
 ### Links
-work in progress...
+- Live Site: https://photai.netlify.app/
+- Front End Repo: https://github.com/SunghunP/photai-frontend
+- Server Domain: https://pho-tai.onrender.com
 
 ### Screen shots of the website
 Welcome Page <br/>
@@ -51,11 +53,6 @@ $ npm start
 ## Project idea
 You hungry? Get some food at Pho Tai! An online menu for a local business.
 
-
-### Wireframes and ERD:
-WIP
-WIP
-
 ### API documentation:
 > `index: GET "/menu/" => renders list of all menu items for the shop`
 
@@ -83,4 +80,4 @@ const menuSchema = new Schema({
 });
 ```
 ## Updates
-WIP
+12/18/22: Update Readme to reflect changes to hosting server side domain.
